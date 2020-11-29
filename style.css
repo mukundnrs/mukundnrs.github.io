@@ -1,0 +1,11 @@
+h2{
+    text-underline-position: below;
+    color: blueviolet;
+    font-size: 6rem;
+    background-color: brown;
+}
+h3{
+    color:blue;
+    font-size: 7rem;   
+    background-color: cadetblue;
+}
